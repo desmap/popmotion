@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-06-05T12:57:03.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="aFB2WJsqmFGxomtvSYot" version="13.1.14" type="github"><diagram id="PHB84Y0Dex7qVma5kvEz" name="Page-1">zZbRbpswFIafhstKxg6FXK4kbL2oVCmdJu3Owqfg1WBknBL29DPFhlBC1VVJtyvb/zm28fcfDB6Ji8NXRav8TjIQHkbs4JGNh7GPMTJNp7RWCQnplUxxZrVR2PHfYEU7MdtzBvUkUUspNK+mYirLElI90ahSspmmPUox3bWiGcyEXUrFXP3Bmc57NQrQqH8DnuVuZx/ZSEFdshXqnDLZHElk65FYSan7XnGIQXT0HJd+XrIQHR5MQanfM6H9tW5b8aT0gwyeWU3Rz7vwKuhXeaZibw+cClrXRvpeg7IPrltHQ8l9yaBbEHnkpsm5hl1F0y7amAIwWq4LYUa+6T5yIWIppDLjUpYm6cbuBkrDYfEY/gDHlBXIArRqTYqbsLI8bUVdu0ppRnsCZ0J+ZA2OrEhtSWTD2iM107Hg/gLiahHi7eZBUa5NL6GplnavDxM9B75gii+M5viGnGN8waXokTdLcAOaclH/c27Efwe36DO5XS9yuzdNIxX732pveC3fYkg+k2G4yDBWQDV0FXhbVnt99puw1ko+gRM9TJIEr8NtlyxLPdERwaszvfyvDSDhzACyDk7cnSi4kAPRogNfCijZ5Qx4hRkh30+SU8agCKGXyDluEcfRGRDiuQHRCQP8D3y8zHD8u3iJHf2kke0f</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-05T13:06:40.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="tCfZRkPXGdstEURakqFQ" version="13.1.14" type="github">
+  <diagram id="PHB84Y0Dex7qVma5kvEz" name="Page-1">
+    <mxGraphModel dx="1037" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yj9yylkrtTo5vdsa0ZM7-8" value="class CreateUserInput" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#0011FF;strokeColor=#0800FF;" parent="1" vertex="1">
+          <mxGeometry x="305" y="769" width="345" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yj9yylkrtTo5vdsa0ZM7-7" value="class AmendUserInput" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF297E;fontColor=#FF0324;" parent="1" vertex="1">
+          <mxGeometry x="130" y="737" width="365" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="yj9yylkrtTo5vdsa0ZM7-5" value="class User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00994D;fontColor=#00994D;" parent="1" vertex="1">
+          <mxGeometry x="150" y="660" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yj9yylkrtTo5vdsa0ZM7-4" value="class IDTrait Factory&lt;br&gt;isAbstract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="780" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yj9yylkrtTo5vdsa0ZM7-3" value="class UserDetails&lt;br&gt;isAbstract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="780" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yj9yylkrtTo5vdsa0ZM7-6" value="class PasswordTrait Factory&lt;br&gt;isAbstract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="780" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
